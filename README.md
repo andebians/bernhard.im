@@ -1,2 +1,2 @@
 # bernhard.im
-basic web
+simple web
